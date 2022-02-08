@@ -1,0 +1,60 @@
+.text-center {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin: 8% auto 0 auto;
+}
+
+.search-bar {
+  display: block;
+  margin: -15px auto 5px auto;
+}
+
+.gri {
+  background-color: #eeeeee;
+  width: 1362px;
+  height: 82px;
+  display: block;
+  margin: auto;
+}
+
+.submit {
+  margin-left: 567px;
+}
+
+.box1 {
+  background-color: #7ee5da;
+  width: 550px;
+  height: 85px;
+  float: left;
+  margin-top: -5px;
+}
+
+.box2 {
+  background-color: #70ccc2;
+  height: 85px;
+  width: 220px;
+  float: left;
+  margin-top: -5px;
+  margin-left: 3px;
+}
+
+.box3 {
+  background-color: rgb(98, 179, 170);
+  height: 85px;
+  width: 586px;
+  float: left;
+  margin-top: -5px;
+  margin-left: 3px;
+}
+
+.text {
+  margin-top: 15px;
+}
+
+.text2 {
+  margin-top: 9px;
+  font-size: 14px;
+}
