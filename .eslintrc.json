@@ -9,7 +9,7 @@
         "semi": ["error", "always"],
         "no-console": "off",
         "no-else-return": "error",
-        "no-nested-ternary": "error",
+        "no-nested-ternary": "off",
         "no-multiple-empty-lines": ["error", {
             "max": 1,
             "maxEOF": 0
