@@ -69,7 +69,7 @@
         "key-spacing": ["error", { "mode": "strict" }],
         "no-new-object": "error",
         "indent": ["error", 4, { "SwitchCase": 1, "VariableDeclarator": 4}],
-        "prefer-const": "error",
+        "prefer-const": "off",
         "no-eval": "error",
         // "camelCase": ["error", {"properties": "never"}],
         "newline-after-var": ["error", "always"],
